@@ -40,4 +40,4 @@ To learn more about installing all necessary dependencies, programs, packages, e
 
 **Teacher:** TBD
 
-**Teaching Assistants (TAs):** Filippo Fonseca, Mark Music
+**Teaching Assistants (TAs):** <a href="mailto:ffonseca@lincoln.ed.cr">Filippo Fonseca</a>, <a href="mailto:mmusic@lincoln.ed.cr">Mark Music</a>
