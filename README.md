@@ -26,7 +26,7 @@ jupyter notebook
 
 This is your main access to the curriculum taught through the entire duration of the course. Use it to follow along with lectures, projects, and teachings and prepare for projects/assessments (as well as to test code snippets and learn interactively).
 
-The class notebook runs on [Jupyter](), an open-source interactive notebook-enhancing software.
+The class notebook runs on [Jupyter](https://jupyter.org/), an open-source interactive notebook-enhancing software.
 
 To navigate and learn more abut Jupyter, watch this [video](https://www.youtube.com/watch?v=jZ952vChhuI&ab_channel=MichaelFudge).
 
