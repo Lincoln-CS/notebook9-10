@@ -18,6 +18,8 @@ cd notebook
 
 **2. Launch Jupyter**
 
+Make sure you're in the correct directory and have installed Jupyter Notebook. If you haven't, click [here]() top view the guide.
+
 ```bash
 jupyter notebook
 ```
