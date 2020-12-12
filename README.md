@@ -32,8 +32,6 @@ The class notebook runs on [Jupyter](https://jupyter.org/), an open-source inter
 
 To navigate and learn more abut Jupyter, watch this [video](https://www.youtube.com/watch?v=jZ952vChhuI&ab_channel=MichaelFudge).
 
-[![](https://i.ytimg.com/an_webp/HW29067qVWk/mqdefault_6s.webp?du=3000&sqp=COn-z_4F&rs=AOn4CLChfCaIyq7YYYualR6WqpbDKgniTw)](https://www.youtube.com/watch?v=jZ952vChhuI&ab_channel=MichaelFudgeQ "")
-
 ## Class Info
 
 **Teacher:** TBD
