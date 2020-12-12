@@ -18,7 +18,7 @@ cd notebook
 
 **2. Launch Jupyter**
 
-Make sure you're in the correct directory and have installed Jupyter Notebook. If you haven't, click [here]() top view the guide.
+Make sure you're in the correct directory and have installed Jupyter Notebook. If you haven't, click [here](https://github.com/Lincoln-CS-Elective/notebook/blob/main/docs/CONDA.md) to view the guide.
 
 ```bash
 jupyter notebook
