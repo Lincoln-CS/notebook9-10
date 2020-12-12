@@ -8,7 +8,7 @@ In order to access the notebook on your local machine, you must execute the foll
 
 **1. Clone the repository using Git**
 
-Copy the SSH key and use it to your terminal the following way:
+Copy the SSH key and use it in your command line the following way:
 
 ```bash
 git clone git@github.com:Lincoln-CS-Elective/notebook.git
@@ -24,7 +24,15 @@ jupyter notebook
 
 ## Usage
 
-To be done.
+This is your main access to the curriculum taught through the entire duration of the course. Use it to follow along with lectures, projects, and teachings and prepare for projects/assessments (as well as to test code snippets and learn interactively).
+
+The class notebook runs on [Jupyter](), an open-source interactive notebook-enhancing software.
+
+To navigate and learn more abut Jupyter, watch this [video](https://www.youtube.com/watch?v=jZ952vChhuI&ab_channel=MichaelFudge).
+
+[![](https://i.ytimg.com/an_webp/HW29067qVWk/mqdefault_6s.webp?du=3000&sqp=COn-z_4F&rs=AOn4CLChfCaIyq7YYYualR6WqpbDKgniTw)](https://www.youtube.com/watch?v=jZ952vChhuI&ab_channel=MichaelFudgeQ "")
+
+
 
 
 **Teaching Assistants:** Filippo Fonseca and Mark Music
