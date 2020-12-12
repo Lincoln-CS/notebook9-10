@@ -8,6 +8,8 @@ In order to access the notebook on your local machine, you must execute the foll
 
 **1. Clone the repository using Git**
 
+Copy the SSH key and use it to your terminal the following way:
+
 ```bash
 git clone git@github.com:Lincoln-CS-Elective/notebook.git
 # then, change into the notebook directory:
