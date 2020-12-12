@@ -32,6 +32,10 @@ The class notebook runs on [Jupyter](https://jupyter.org/), an open-source inter
 
 To navigate and learn more abut Jupyter, watch this [video](https://www.youtube.com/watch?v=jZ952vChhuI&ab_channel=MichaelFudge).
 
+## Further Learning & Resources
+
+To learn more about installing all necessary dependencies, programs, packages, etc, check out the `docs` directory of this notebook [here](https://github.com/Lincoln-CS-Elective/notebook/tree/main/docs).
+
 ## Class Info
 
 **Teacher:** TBD
