@@ -15,6 +15,8 @@ Once you have done so, follow the instructions within the installer and within m
 
 ## Getting Started
 
+If you install Anaconda, you will already have hundreds of packages installed. You can see what packages are installed by running
+
 ```bash
 
    $ conda list
