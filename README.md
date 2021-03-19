@@ -38,6 +38,6 @@ To learn more about installing all necessary dependencies, programs, packages, e
 
 ## Class Info
 
-**Teacher:** TBD
+**Teacher:** TBD 
 
 **Teaching Assistants (TAs):** <a href="mailto:ffonseca@lincoln.ed.cr">Filippo Fonseca</a>, <a href="mailto:mmusic@lincoln.ed.cr">Mark Music</a>
